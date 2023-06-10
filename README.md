@@ -1,6 +1,8 @@
+https://media.licdn.com/dms/image/D5635AQFPcDjY_0SYVA/profile-framedphoto-shrink_100_100/0/1655919942018?e=1687024800&v=beta&t=_0laNy6s1T4RHQBwPAu_jPPpN51GJ_XdDL6xD-7WHHg
+
 ### Hi there 👋, I am Tanjila Akter
 #### I am Python Developer
-![I am Python Developer](https://media.licdn.com/dms/image/D5635AQFPcDjY_0SYVA/profile-framedphoto-shrink_100_100/0/1655919942018?e=1687024800&v=beta&t=_0laNy6s1T4RHQBwPAu_jPPpN51GJ_XdDL6xD-7WHHg)
+![I am Python Developer]
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
